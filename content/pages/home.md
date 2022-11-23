@@ -1,24 +1,23 @@
 ---
-title: Hello World!
-featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+title: Madison Alexander Public Relations, Inc.
+featuredImage: /images/uploads/computer-g62c5ef720_1920.jpg
+subtitle: D﻿ecades of experience
 meta:
-  title: ''
+  title: ""
 ---
+Founded in 2004, Madison Alexander PR is an award-winning high technology, full-service communications agency headquartered in Southern California.  The agency was among the first to implement the “Virtual Agency” model. We build client-specific teams based on service needs and staff member expertise to tell your technology story.
 
-# Netlify CMS + React Starter
+## Madison Alexander PR supports technology clients in:
 
-A starter project for creating lightning-fast, offline-first websites with [Netlify CMS](https://netlifycms.org) and React.
+* Cybersecurity
+* IT security
+* Enterprise software and services
+* Identity management
+* Internet of Things (IoT)
+* Semiconductors
+* Computer hardware and data storage devices
+* Internet platforms 
+* Mobile security
+* Cloud computing
 
-- **[Create React App](https://github.com/facebookincubator/create-react-app)**
-- **[React Router](https://github.com/ReactTraining/react-router)** for routing
-- **[React Helmet](https://github.com/nfl/react-helmet)** for document titles, descriptions, meta
-- **[React Snapshot](https://github.com/geelen/react-snapshot)** for pre-rendering to static html so it works without Javascript ⭐️
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-
-## See also
-
-[Netlify CMS Docs](https://www.netlifycms.org/docs/)  
-[Netlify CMS Repo](https://github.com/netlify/netlify-cms)  
-[Hyperstatic](https://github.com/Jinksi/hyperstatic) – the same starter project minus Netlify CMS  
-[Gatsby + Netlify CMS Starter (Gatsbro)](https://github.com/Jinksi/gatsbro)
+The agency is comprised of experienced technology industry veterans.  Our combination of skills, experience, work ethic, results-driven strategies, and programs sets us apart from the competition.
