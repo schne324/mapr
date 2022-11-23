@@ -1,7 +1,7 @@
 ---
 title: Madison Alexander Public Relations, Inc.
 featuredImage: /images/uploads/computer-g62c5ef720_1920.jpg
-subtitle: D﻿ecades of experience
+subtitle: D﻿ecades of experience.
 meta:
   title: ""
 ---
